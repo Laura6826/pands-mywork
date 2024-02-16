@@ -3,3 +3,9 @@
 # using a while loop
 # Author: Laura Lyons
 
+x= 2
+y= 100
+
+while x <= y:
+    print (x)
+    x= x+2
