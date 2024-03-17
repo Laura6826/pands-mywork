@@ -30,3 +30,5 @@ plt.ylabel("age")
 plt.legend()
 plt.show() 
 plt.savefig('Pretty ploy.png')
+
+#end 
